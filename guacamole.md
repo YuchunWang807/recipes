@@ -11,6 +11,7 @@ This is a simple recipe for homemade guacamole.
 - 1 tomato
 - 1 onion
 - Salt
+- pinch of chili (optional)
 
 ## Instructions
 
